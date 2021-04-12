@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JoMalone xmlns="http://www.w3.org/2001/XMLSchema"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://cs.skuniv.ac.kr/xml/ayjeon JoMalone.xsd">
+  <Cologne>
+    <Name>라임 바질 앤 만다린</Name>
+    <Explain >조 말론 런던의 시그니처 향. 열정적인 허브의 독특한 조합으로 이루어져 있습니다. 카리브해의 산들바람에서 실려온 듯한 라임향에 톡 쏘는 바질과 향기로운 백리향이 더해져서 독특한 조합을 만들어냅니다. 현대적인 감각의 클래식한 향입니다.</Explain>
+    <Fragrance FragranceType="Citrus">
+      <TastingNote>
+        <TopNote>만다린</TopNote>
+        <HeartNote>바질</HeartNote>
+        <BaseNote>앰버우드</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_50ml>133000원</Size_50ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>잉글리쉬 페어 앤 프리지아</Name>
+    <Explain>은은하면서 신선하고 감미로운 향. 부드럽고 감미로운 향을 부여하는 잉글리쉬 페어 앤 프리지아는 가을의 정수라 할 수 있습니다. 화이트 프리지아 부케향에 이제 막 익은 배의 신선함을 입히고, 호박, 파출리, 우디향으로 은은함을 더했습니다. 감미롭고 특별한 향이 느껴집니다.</Explain>
+    <Fragrance FragranceType="Fruity">
+      <TastingNote>
+        <TopNote>킹윌리엄페어</TopNote>
+        <HeartNote>프리지아</HeartNote>
+        <BaseNote>파출리</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_50ml>133000원</Size_50ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <CologneIntense>
+    <Name>오드 앤 베르가못</Name>
+    <Explain>진귀한 오드의 화려한 부활. 중동 지역의 전통 향수에서 많이 쓰이는 성스러운 나무의 미스터리하고 스모키한 느낌이 신선한 베르가못의 투명함과 특별한 조화를 이룹니다. 마치 최면에 빠지는 듯한 고혹적인 향입니다.</Explain>
+    <Fragrance FragranceType="Intense">
+      <TastingNote>
+        <TopNote>베르가못</TopNote>
+        <HeartNote>시더우드</HeartNote>
+        <BaseNote>오드</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_50ml>165000원</Size_50ml>
+        <Size_100ml>248000원</Size_100ml>
+      </Size>
+    </Price>
+  </CologneIntense>
+  
+  <Cologne>
+    <Name>와일드 블루벨</Name>
+    <Explain>숲 속 깊은 곳에서 빛나고 있는 사파이어. 이슬 맺힌 블루벨의 은은하고 달콤한 향기에 산골짜기 백합, 들장미, 달콤한 감향이 더해졌습니다. 최면을 걸 듯 마음을 사로잡는 향수입니다.</Explain>
+    <Fragrance FragranceType="LightFloral">
+      <TastingNote>
+        <TopNote>블루벨</TopNote>
+        <HeartNote>감</HeartNote>
+        <BaseNote>화이트머스크</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_50ml>133000원</Size_50ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>오렌지 블로썸</Name>
+    <Explain>희미하게 빛나는 정원 속 오아시스. 화이트 라일락과 발사믹 베티버의 따뜻한 향기가 감도는 가운데 오렌지 꽃과 수련의 향기 위에 귤 꽃의 탑 노트를 가지고 있습니다. 즐거운 느낌을 주는 향수입니다.</Explain>
+    <Fragrance FragranceType="Floral">
+      <TastingNote>
+        <TopNote>귤꽃</TopNote>
+        <HeartNote>화이트라일락</HeartNote>
+        <BaseNote>오리스우드</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>앰버 앤 라벤더</Name>
+    <Explain>깔끔하고 남성적이고 부드러운 향수. 앰버 앤 라벤더는 깊은 느낌의 남성적인 향수로, 클래식하고 깔끔하며 세련된 느낌을 가져다 줍니다. 프렌치 라벤더와 페티그레인으로 앰버향에 신선한 활기를 불어넣었습니다. 코스모폴리탄에 어울리는 세련된 느낌의 향수입니다.</Explain>
+    <Fragrance FragranceType="Spicy">
+      <TastingNote>
+        <TopNote>프티그레인</TopNote>
+        <HeartNote>프렌치라벤더</HeartNote>
+        <BaseNote>앰버</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>우드 세이지 앤 씨 솔트</Name>
+    <Explain>일상에서 벗어나 강한 바람이 몰아치는 해변에 있는 모습을 상상해 보세요. 하얗게 부서지는 파도, 씨 솔트와 물보라로 신선해진 공기. 가파르고 거친 절벽에서 느낄 수 있는 생생한 미네랄 향기.</Explain>
+    <Fragrance FragranceType="Woody">
+      <TastingNote>
+        <TopNote>암브레트씨드</TopNote>
+        <HeartNote>씨솔트</HeartNote>
+        <BaseNote>세이지</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_50ml>133000원</Size_50ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <CologneIntense>
+    <Name>베티버 앤 골든 바닐라</Name>
+    <Explain>마다가스카르 섬의 축복으로 불리우는 베티버와 바닐라. 향긋한 바닐라가 아름다운 섬의 해안선을 따라 휘감습니다. 군침이 돌 만큼 관능적인 이 향은 싱그러운 노트의 자몽 차(그레이프프루트 티)와 약간의 카다멈의 조합으로 시작하여, 우리를 깊은 대지로 안내하는 듯한 마다가스카르 베티버 향으로 이어집니다. 마지막으로 야생 난초가 아름답게 수 놓인 정글에서 자라난 진귀한 바닐라 버번 향으로 따스하게 마무리됩니다.</Explain>
+    <Fragrance FragranceType="Intense">
+      <TastingNote>
+        <TopNote>카다멈</TopNote>
+        <HeartNote>베티버버번</HeartNote>
+        <BaseNote>바닐라버번</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_50ml>165000원</Size_50ml>
+        <Size_100ml>248000원</Size_100ml>
+      </Size>
+    </Price>
+  </CologneIntense>
+  
+  <CologneIntense>
+    <Name>머르 앤 통카</Name>
+    <Explain>자욱한 연기와 모래로 가득 찬 황혼의 언덕에서 울려 퍼지는 유목민의 노래에서 영감을 받은 향. 풍성하고 강렬한 향의 나미비아 머르나무 수액과 중독적이고 치명적인 통카 열매에 더해진 따스한 아몬드와 달콤한 바닐라의 속삭임 같은 향이 매력적입니다</Explain>
+    <Fragrance FragranceType="Intense">
+      <TastingNote>
+        <TopNote>라벤더</TopNote>
+        <HeartNote>오뭄비리머르</HeartNote>
+        <BaseNote>통카빈</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_50ml>165000원</Size_50ml>
+        <Size_100ml>248000원</Size_100ml>
+      </Size>
+    </Price>
+  </CologneIntense>
+  
+  <Cologne>
+    <Name>그레이프프루트</Name>
+    <Explain>스페인 해안의 수많은 자몽 과수원. 자몽의 맑고 명랑한 느낌에 로즈마리, 페퍼민트, 피멘토의 톡 쏘는 향을 더했습니다. 산뜻한 느낌. 기분 좋아지는 향수입니다.</Explain>
+    <Fragrance FragranceType="Citrus">
+      <TastingNote>
+        <TopNote>그레이프프루트(천연)</TopNote>
+        <HeartNote>로즈마리</HeartNote>
+        <BaseNote>모스</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>블랙베리 앤 베이</Name>
+    <Explain>순수한 향. 블랙베리를 따던 어린 시절의 추억. 블랙베리로 물든 입술, 끈적해진 손. 이제 막 수확한 월계수 잎과 브램블리 우드의 신선함에 진하고 톡 쏘는 느낌의 블랙베리 과즙을 가미하였습니다. 생기 넘치고 활발한 느낌의 향수입니다.</Explain>
+    <Fragrance FragranceType="Fruity">
+      <TastingNote>
+        <TopNote>블랙베리</TopNote>
+        <HeartNote>월계수잎</HeartNote>
+        <BaseNote>시더우드</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_50ml>133000원</Size_50ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>포피 앤 바알리</Name>
+    <Explain>영국의 들판에서 살랑살랑 춤을 추는 생생하고 선명한 빛깔의 양귀비꽃. 생기 넘치는 플로랄 향을 황금빛 들판의 보리가 따스하게 감싸 안아줍니다. 선명하게 피어난 바이올렛 꽃과 블랙커런트 과즙이 조화를 이룹니다. 바알리와 브란이 선사하는 포근함과 파우더리한 화이트 머스크의 선율로 부드럽게 완성됩니다.</Explain>
+    <Fragrance FragranceType="LightFloral">
+      <TastingNote>
+        <TopNote>블랙커런트</TopNote>
+        <HeartNote>포피</HeartNote>
+        <BaseNote>바알리</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>허니서클 앤 다바나</Name>
+    <Explain>영국 시골 마을의 바람을 따라 물결치듯이 피어오르는 허니서클. 짙은 어둠 속에서 더욱 매력적으로 빛납니다. 프루티한 반전을 지닌 다바나의 아로마 향에 로즈 향이 가미되어 더욱 신선해지고, 모스는 향에 우디함을 더해주며, 햇살을 듬뿍 머금어 따스해집니다. 선명하고 화사하며, 즐거움을 표현하는 향입니다.</Explain>
+    <Fragrance FragranceType="Floral">
+      <TastingNote>
+        <TopNote>다바나</TopNote>
+        <HeartNote>허니서클</HeartNote>
+        <BaseNote>모스</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>잉글리쉬 오크 앤 헤이즐넛</Name>
+    <Explain>잉글리쉬 오크 앤 헤이즐넛은 삼림지대에서 자라난 헤이즐넛의 바삭거림, 그레이프프루트의 매력, 상쾌한 이끼의 느낌, 엘리미의 스파이스, 우디한 베티버를 충분히 로스팅한 오크에서 담아내어 흙내음과 녹색이 어우러진 고혹적인 향을 선사합니다.</Explain>
+    <Fragrance FragranceType="Spicy">
+      <TastingNote>
+        <TopNote>그린헤이즐넛</TopNote>
+        <HeartNote>시더우드</HeartNote>
+        <BaseNote>로스티크오크앱솔루트</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>포머그래니트 누와</Name>
+    <Explain>대담한 관능미. 짙은 루비색 같은 석류 과즙에 핑크 페퍼와 카사블랑카 백합이 첨가되었습니다. 유혹적이고 스모키한 과이액목과 파출리의 온기가 느껴집니다. 어둡고 불가사의한 느낌의 향입니다.</Explain>
+    <Fragrance FragranceType="Woody">
+      <TastingNote>
+        <TopNote>석류</TopNote>
+        <HeartNote>카사블랑카백합</HeartNote>
+        <BaseNote>과이액목(유창목)</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <CologneIntense>
+    <Name>다크 앰버 앤 진저 릴리</Name>
+    <Explain>희귀한 키아라 우드. 향으로 감사의 향연을 벌이는 일본의 유명하고 예술적인 의식에서 영감을 받은 향입니다. 앰버와 블랙 오키드의 풍부함. 블랙 카다멈의 깨끗한 관능미로 반짝이고, 진저와 워터 릴리는 마음을 편안하게 해주고 안식을 전해주는 향입니다.</Explain>
+    <Fragrance FragranceType="Intense">
+      <TastingNote>
+        <TopNote>블랙카다멈</TopNote>
+        <HeartNote>블랙오키드</HeartNote>
+        <BaseNote>키아라인센스</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_50ml>165000원</Size_50ml>
+        <Size_100ml>248000원</Size_100ml>
+      </Size>
+    </Price>
+  </CologneIntense>
+  
+  <Cologne>
+    <Name>얼 그레이 앤 큐컴버</Name>
+    <Explain>영국 전통의 '고급 티' 문화에서 영감을 받은 향. 얼 그레이 향에 가미된 풍부한 베르가못의 향기가 뚜렷이 부각되고 오이의 아삭함이 느껴지는 싱그러움이 가득합니다. 바닐라, 머스크의 달콤한 베이스와 대조를 이루고 있죠. 놀라울 정도로 생기를 가져다주는 향입니다.</Explain>
+    <Fragrance FragranceType="Citrus">
+      <TastingNote>
+        <TopNote>베르가못</TopNote>
+        <HeartNote>큐컴버</HeartNote>
+        <BaseNote>비즈왁스</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>넥타린 블로썸 앤 허니</Name>
+    <Explain>이른 아침 런던 코벤트 가든의 시장. 아카시아 꿀 향기 속에 과즙이 풍부한 천도 복숭아, 복숭아, 카씨스, 여린 봄 꽃이 녹아 있습니다. 유쾌하고 활발한 느낌의 달콤한 향수입니다.</Explain>
+    <Fragrance FragranceType="Fruity">
+      <TastingNote>
+        <TopNote>카씨스</TopNote>
+        <HeartNote>아카시아허니</HeartNote>
+        <BaseNote>복숭아</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>레드 로즈</Name>
+    <Explain>관능적이고 로맨틱하며, 깔끔한 향. 현대적인 로맨스를 상징하는 레드 로즈는 깔끔하고 은은한 로즈 향을 전해 줍니다. 아름다운 7가지 장미를 조합한 관능적인 향으로, 으깬 바이올렛 잎과 약간의 레몬이 첨가되어 신선한 플로랄 부케향을 발산합니다. 맑고 순수한 느낌의 향입니다.</Explain>
+    <Fragrance FragranceType="LightFloral">
+      <TastingNote>
+        <TopNote>레몬</TopNote>
+        <HeartNote>레드로즈어코드</HeartNote>
+        <BaseNote>허니컴</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>피오니 앤 블러쉬 스웨이드</Name>
+    <Explain>화려하게 핀 작약에 더해진 붉은 사과의 향기로운 과즙과 순수한 자스민, 장미, 카네이션, 블러쉬 스웨이드의 부드러운 관능미가 여운을 남깁니다. 고급스럽고 매력적인 피오니 앤 블러쉬 스웨이드를 만나보세요.</Explain>
+    <Fragrance FragranceType="Floral">
+      <TastingNote>
+        <TopNote>빨간사과</TopNote>
+        <HeartNote>피오니</HeartNote>
+        <BaseNote>스웨이드</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_50ml>133000원</Size_50ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>154</Name>
+    <Explain>조 말론 런던 1호점이 위치한 런던의 거리 번호입니다. 광범위한 후각적 탐구를 요하는 이 향수는 만다린, 그레이프 프루트, 바질, 너트맥, 베티버와 같은 브랜드를 대표하는 성분들을 모두 함유하고 있습니다. 다양한 느낌을 연출하는 향입니다.</Explain>
+    <Fragrance FragranceType="Woody">
+      <TastingNote>
+        <TopNote>만다린오렌지</TopNote>
+        <HeartNote>잉글리쉬라벤더</HeartNote>
+        <BaseNote>베티버</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>바질 앤 네롤리</Name>
+    <Explain>런던의 유쾌하고 장난기 많은 향. 가장 젊고 유쾌한 시절의 런던을 표현합니다. 지극히 플로랄적인 네롤리가 매혹적으로 다가오고 바질은 감미로운 터치로 유혹합니다. 정통적인 브리티시향으로 언제나 유쾌합니다.</Explain>
+    <Fragrance FragranceType="Citrus">
+      <TastingNote>
+        <TopNote>바질그랑베르</TopNote>
+        <HeartNote>네롤리</HeartNote>
+        <BaseNote>화이트머스크</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>피그 앤 로터스 플라워</Name>
+    <Explain>고대 공중정원 전설 속 반짝이는 연못. 그 수면 위를 스치듯 피어난 달콤한 연꽃. 물기를 머금은 섬세한 꽃잎이 그늘진 통로를 따라 미끄러지듯 닿은 곳에 서 있는 울창한 무화과 나무. 과즙을 가득 머금은 무화과의 향과 연꽃이 만나 라이트 플로랄 향을 완성합니다. 마지막으로 네롤리 향이 더해져 풍성한 공중정원의 대미를 장식합니다.</Explain>
+    <Fragrance FragranceType="LightFloral">
+      <TastingNote>
+        <TopNote>무화과잎</TopNote>
+        <HeartNote>로터스플라워(연꽃)</HeartNote>
+        <BaseNote>베티버</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <Cologne>
+    <Name>미모사 앤 카다멈</Name>
+    <Explain>새로운 보헤미안 스타일이 기다리고 있습니다. 꿀 향이 감도는 골드 빛 미모사 향이 갓 으깬 카다멈의 스파이시함 위로 안개처럼 피어 오릅니다. 새벽에 따온 다마스크 로즈와 파우더리한 헬리오트로프 아래 크리미한 샌달우드와 통카 향이 물결치듯 퍼져 나갑니다. 따스하고 아름다운, 매혹적인 향.</Explain>
+    <Fragrance FragranceType="Floral">
+      <TastingNote>
+        <TopNote>카다멈</TopNote>
+        <HeartNote>미모사</HeartNote>
+        <BaseNote>통카빈</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_30ml>95000원</Size_30ml>
+        <Size_100ml>190000원</Size_100ml>
+      </Size>
+    </Price>
+  </Cologne>
+
+  <CologneIntense>
+    <Name>튜버로즈 안젤리카</Name>
+    <Explain>화이트 플로랄의 여왕. 안젤리카의 그린 스파이시함이 가미되고, 앰버의 따스함으로 호화스러운 향입니다. 중독적이고 끌리는 매력을 남기는 달콤한 향입니다.</Explain>
+    <Fragrance FragranceType="Intense">
+      <TastingNote>
+        <TopNote>안젤리카</TopNote>
+        <HeartNote>튜버로즈</HeartNote>
+        <BaseNote>앰버로즈</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_50ml>165000원</Size_50ml>
+        <Size_100ml>248000원</Size_100ml>
+      </Size>
+    </Price>
+  </CologneIntense>
+
+  <CologneIntense>
+    <Name>벨벳 로즈 앤 오드</Name>
+    <Explain>활짝 핀 다마스크 로즈의 가장 아름답고 정교한 향을 오드가 스모키하게 감싸줍니다. 톡 쏘는 정향. 향락적인 프랄린이 자력처럼 끌리게 하는 향수입니다.</Explain>
+    <Fragrance FragranceType="Intense">
+      <TastingNote>
+        <TopNote>클로브</TopNote>
+        <HeartNote>다마스크로즈</HeartNote>
+        <BaseNote>오드</BaseNote>
+      </TastingNote>
+    </Fragrance>
+    <Price>
+      <Size>
+        <Size_50ml>165000원</Size_50ml>
+        <Size_100ml>248000원</Size_100ml>
+      </Size>
+    </Price>
+  </CologneIntense>
+
+  
+  
+</JoMalone>

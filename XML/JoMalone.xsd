@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+   targetNamespace="http://cs.skuniv.ac.kr/xml/ayjeon"
+   xmlns:target="http://cs.skuniv.ac.kr/xml/ayjeon"
+   elementFormDefault="qualified">
+
+  <!--Fragance의 arrtribute-->
+    <attribute name="FragranceType">
+      <simpleType>
+        <restriction base="string">
+          <enumeration value="Citrus"/>
+          <enumeration value="Floral" />
+          <enumeration value="LightFloral" />
+          <enumeration value="Woody"/>
+          <enumeration value="Fruity"/>
+          <enumeration value="Spicy"/>
+          <enumeration value="Intense"/>
+        </restriction>
+      </simpleType>
+    </attribute>
+
+  <!--TopNote, HeartNote, BaseNote에 들어갈 SimpleType-->
+  <simpleType name="NoteList">
+    <list itemType="String"/>
+  </simpleType>
+  
+<!--PerfumeGroup-->
+  <group name="PerfumeGroup">
+    <sequence>
+      <element name="Name"/>
+      <element name="Explain" type="string" />
+      <element name="Fragrance" maxOccurs="unbounded">
+        <complexType>
+          <sequence>
+            <element name="TastingNote" >
+              <complexType>
+                <sequence>
+                  <element name="TopNote" type="NoteList"/>
+                  <element name="HeartNote" type="NoteList"/>
+                  <element name="BaseNote" type="NoteList"/>
+                </sequence>
+              </complexType>
+            </element>
+          </sequence>
+          <attribute ref="target:FragranceType"></attribute>
+        </complexType>
+      </element>
+      <element name="Price" >
+        <complexType>
+          <sequence>
+            <element name="Size">
+              <complexType>
+                <choice minOccurs="1" maxOccurs="3">
+                  <element name="Size_30ml" type="String"></element>
+                  <element name="Size_50ml" type="String"></element>
+                  <element name="Size_100ml" type="String"></element>
+                </choice>
+              </complexType>
+            </element>
+          </sequence>
+        </complexType>
+      </element>
+    </sequence>
+  </group>
+
+
+  <!--PerfumeType-->
+  <complexType name="PerfumeType">
+    <group ref="target:PerfumeGroup"/>
+  </complexType>
+
+  <element name="JoMalone">
+    <complexType>
+      <choice maxOccurs="unbounded">
+        <element name="Cologne" type="target:PerfumeType"/>
+        <element name="CologneIntense" type="target:PerfumeType"/>
+      </choice>
+    </complexType>
+  </element>
+
+</schema>
